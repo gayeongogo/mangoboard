@@ -1,4 +1,4 @@
-# 마켓컬리 클론코딩
+# 망고보드 클론코딩
 
 ## TECHNOLOGY
 `HTML5` `CSS3` `JQUERY`
